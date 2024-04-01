@@ -1,6 +1,6 @@
-#include<stdio.h>
+  #include<stdio.h>
 
-int main(){  
+  int main(){  
  float valor_hora_trabalhada = 150.0f;
  int total_horas_trabalhadas = 200;
   
