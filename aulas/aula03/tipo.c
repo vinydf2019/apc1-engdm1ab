@@ -7,7 +7,7 @@ int main() {
   double decimal15; // numero decimal com 15casas
   void sem_valor; // sem valor
   // nao tem string, mas aceita "uma frase"
-
+  
   signed char caracter_com_sinal; // 1 byte -128 a 127
   unsigned char caracter_sem_sinal; // 1 byte 0 a 255
 
